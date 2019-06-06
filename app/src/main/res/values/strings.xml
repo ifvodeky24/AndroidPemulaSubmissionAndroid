@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rumah Idamanku</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorit">Favorit</string>
+    <string name="bagikan">Bagikan</string>
+
+</resources>
